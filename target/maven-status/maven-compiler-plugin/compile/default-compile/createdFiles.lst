@@ -1,0 +1,5 @@
+sapient\dropwizard\SapientApplication.class
+sapient\dropwizard\HelloWorldResource.class
+sapient\dropwizard\SapientConfiguration.class
+sapient\dropwizard\TemplateHealthCheck.class
+sapient\dropwizard\Saying.class
